@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RGBloink</string>
+    <string name="brightness">Brightness</string>
+    <string name="add">Add</string>
+    <string name="free">Free</string>
+    <string name="sequence">Sequence</string>
+    <string name="random">Random</string>
+    <string name="action_settings">Settings</string>
+</resources>

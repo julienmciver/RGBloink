@@ -6,4 +6,6 @@
     <string name="sequence">Sequence</string>
     <string name="random">Random</string>
     <string name="action_settings">Settings</string>
+    <string name = "bluetooth_device">HC-06</string>
+    <string name = "MY_UUID">1ef9a146-4b12-413a-90ef-644d07425873</string>
 </resources>

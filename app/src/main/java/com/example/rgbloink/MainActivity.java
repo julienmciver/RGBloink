@@ -212,7 +212,7 @@ public class MainActivity extends AppCompatActivity {
             //set textView's text
             int radio_id = mode_group.getCheckedRadioButtonId();
             RadioButton active_btn = (RadioButton) mode_group.getChildAt(radio_id);
-            active_btn.
+            //active_btn.
 
             bluetoothService.write("#" + Float.toString(seekBar.getProgress()) + ")");
         }
